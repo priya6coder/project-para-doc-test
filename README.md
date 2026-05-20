@@ -1,1 +1,2 @@
-# My Awesome Project \n This project uses Basic Auth.
+# Order Processing Module
+This module handles basic e-commerce customer checkouts locally.
