@@ -1,2 +1,1 @@
-# project-para-doc-test
-Sample repo for testing para doc project
+# My Awesome Project \n This project uses Basic Auth.
